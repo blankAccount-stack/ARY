@@ -26,3 +26,9 @@
 * 页面和体验问题：读 `ary-mvp.ia.md` 与 `ux-hifi.taskbook.md`，必要时参考 `../design-prototype/`。
 * 项目推进问题：读 `ary.plan.md`，再看根目录 `PLAN.md`。
 * 验收和上线问题：读 `ary-qa-plan.md` 与 `ary-release-ops-plan.md`。
+
+## 关于提交
+
+关于 GRS-003 可能需要大家注意一下：
+1、要求是按 PRD真正开始做项目，不是做某1 个、2 个点，是全面推进、实现。安全、防伪、反作弊是追加需求，不是唯一要求。
+2、本周提交是第一个 Checkpoint，以推进和质量来评定。也就是说，要尽力完成，但不要求全部完成。
